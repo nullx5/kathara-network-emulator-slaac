@@ -1,0 +1,7 @@
+# pc.startup
+
+# Asegurar que IPv6 no esté bloqueado
+sysctl -w net.ipv6.conf.eth0.disable_ipv6=0
+
+# Levantar interfaz
+ip link set eth0 up
