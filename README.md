@@ -1,2 +1,2 @@
 # Laboratorio de Redes
-# 🌐SLAAC configuracion con Kathara network emulator 🚀
+# 🌐SLAAC IPv6 configuracion con Kathara network emulator 🚀
